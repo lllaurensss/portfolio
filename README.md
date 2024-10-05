@@ -11,9 +11,9 @@ I have experience in a lot of industries from digital telivison, automotive, ban
 
 At the moment father of two daughters, partner of Stefanie. Intressted in combat sports (boxing, kick/thaiboxing), technology and fan of Tolkien/George RR Martin and other fantasy like 
 
-- 🔭 I’m currently working @: `ABB e-mobility where we develops energy management solutions for chargers (AC and DC)`
-- 🌱 I’m currently studying: `Associate degree in Internet of things @ Thomas More college-university`
-- 👯 I’m looking to collaborate on: `Cloud and devops projects`
+- 🔭 I’m currently working @ `ABB e-mobility where we develops energy management solutions for chargers (AC and DC)`
+- 🌱 I’m currently studying `Associate degree in Internet of things @ Thomas More college-university`
+- 👯 I’m looking to collaborate on `Cloud and devops projects & developing automation solutions`
 
 ---
 
