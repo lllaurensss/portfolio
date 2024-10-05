@@ -1,16 +1,19 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Laurens Putseys
 
-### Software Engineer | Data Scientist | AI Enthusiast (or your relevant titles)
+### Test automation engineer | Test engineer | Programmer | Father of two daughters
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate software developer with a strong interest in building efficient, scalable, and innovative solutions. I have experience in full-stack development, machine learning, cloud services, and more. My goal is to continuously improve my skills while working on challenging projects that make a difference.
+I am a passionate IT engineer with a strong interest in building efficient, scalable, and innovative solutions. 
+I have experience in a lot of industries from digital telivison, automotive, banking, energy management solutions ...
 
-- 🔭 I’m currently working on: `Your current project or research`
-- 🌱 I’m currently learning: `Technology or skill you're currently learning`
-- 👯 I’m looking to collaborate on: `Specific type of projects or technologies you're interested in`
+At the moment father of two daughters, partner of Stefanie. Intressted in combat sports (boxing, kick/thaiboxing), technology and fan of Tolkien/George RR Martin and other fantasy like 
+
+- 🔭 I’m currently working @: `ABB e-mobility where we develops energy management solutions for chargers (AC and DC)`
+- 🌱 I’m currently studying: `Associate degree in Internet of things @ Thomas More college-university`
+- 👯 I’m looking to collaborate on: `Cloud and devops projects`
 
 ---
 
@@ -34,17 +37,31 @@ I am a passionate software developer with a strong interest in building efficien
 
 ## 📚 Education
 
-### **[Your Degree]** | [University Name]  
-**[Year – Year]**
+### **[Bachelor in applied inforation technology]** | [College-university PXL - Hasselt]  
+**[2014]**
 
-- Major: `Your major`
-- Notable coursework: `List a few key courses relevant to your field, like Machine Learning, Software Engineering, etc.`
-- GPA: `Optional`
+- Major: `Software development`
+- Courses on: `Java and C# development (Service development like rest, SOAP, ...), Frontend development (Angular), Server (windows and linux) and network management (Cisco), Fundemental math courses on logic, boolean algebra and linear algebra`
+- `Graduated with distinction`
+
+### **[Premaster in applied computer science]** | [KU Leuven - Leuven]  
+**[2015]**
+
+- Courses on: `Algorithms and data structures, AI, linear algebra, calculus, Prolog and Haskell, Computer networks`
+- `Stopped with the premaster and never went through to the master`
+
+### **[Associate degree in Internet of things]** | [Thomas More college-university]  
+**[2025]**
+
+- Courses on: `Embedded software development, analog and digital electronics, home automation`
+- `Should graduate in 2025!`
 
 ### **Certifications & Courses**
-- [Certification Name] – [Institution], [Year]
-- [Certification Name] – [Institution], [Year]
-
+- [Maintenance technician] – [EDUCAM], [2021]
+- [HEV 1 hybride and electric vehicles level 1] – [EDUCAM], [2022]
+- [ISTQB Foundation level] – [ISTQB], [2015]
+- [AI and DL for developers] – [PXL college-university], [2019]
+- [Python advanced] – [Global knowledge], [2019]
 ---
 
 ## 🛠️ Projects
@@ -77,43 +94,21 @@ Add a brief description explaining the project’s goals, its target audience, a
 
 ## 🧑‍💻 Skills
 
-- **Programming Languages**: Python, JavaScript, Java, C++
-- **Web Development**: HTML5, CSS3, React, Node.js, Flask
-- **Cloud Platforms**: AWS, Azure, Google Cloud
-- **Database Technologies**: MySQL, PostgreSQL, MongoDB
+- **Programming Languages**: Python, C#, C
+- **Limited experience in**: Java, kotlin, C++
+- **Cloud Platforms**: Azure
+- **Database Technologies**: MySQL, PostgreSQL
 - **Tools & Technologies**: Docker, Kubernetes, Jenkins, Git, CI/CD
-- **AI/ML**: TensorFlow, Scikit-learn, PyTorch
+- **Testing tools**: Selenium, Appium, playwright
+- **Other**: OpenCV for computer vision, Vector for automotive, Pytorch for ML, Dotnet core for building HTTP apis, Xamarin for building Android applications
 
 ---
 
 ## 📬 Contact
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+- **Email**: laurens.p [at] outlook [dot] com
+- **LinkedIn**: [https://www.linkedin.com/in/laurens-putseys-b740931b9/](https://www.linkedin.com/in/laurens-putseys-b740931b9/)
 
 Feel free to reach out for collaborations, project ideas, or just to say hello!
 
 ---
-
-## 🌟 Interests & Hobbies
-
-- **Open-source contribution**: I'm passionate about contributing to open-source projects that help developers around the world.
-- **Machine learning & AI**: I enjoy exploring and implementing machine learning models and algorithms.
-- **Music**: Avid guitarist, love exploring different genres.
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-## 📝 Blog Posts (Optional)
-
-You can share any articles, tutorials, or blog posts you've written to showcase your expertise.
-
-- [How to Optimize API Performance](https://yourblog.com/api-performance)
-- [Machine Learning Pipelines in Python](https://yourblog.com/ml-pipelines)
